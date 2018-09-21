@@ -20,11 +20,17 @@ def binary_search(target, data):
 
 class BinarySearchTest(unittest.TestCase):
     def test_binary_search(self):
-        self.assertNotEqual(
-            binary_search(4, [1, 2, 3, 4, 5]), None
+        self.assertEqual(
+            binary_search(4, [1, 2, 3, 4, 5]), 3
         )
-        self.assertNotEqual(
-            binary_search(4, [5, 4, 3, 2, 1]), None
+        self.assertEqual(
+            binary_search(4, [5, 4, 3, 2, 1]), 3
+        )
+        self.assertEqual(
+            binary_search(5, [5, 4, 3, 2, 1]), 4
+        )
+        self.assertEqual(
+            binary_search(1, [5, 4, 3, 2, 1]), 0
         )
         self.assertEqual(
             binary_search(6, [1, 2, 3, 4, 5]), None
