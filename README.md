@@ -24,7 +24,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - depth first search (TODO)
 - breadth first search (TODO)
 - parametric search (TODO)
-- quick sort (TODO)
+- quick sort
 - merge sort (TODO)
 - tim sort (TODO)
 - heap sort (TODO)
