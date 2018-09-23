@@ -2,14 +2,14 @@
 Here are code snippets about algorithms, data structures, problems. These codes are written for practice and need to be optimised.
 
 ## Data struct
-- stack
-- queue
-- single linked list
+- [stack](https://github.com/smartdolphin/python-algorithm/blob/master/data_struct/stack.py)
+- [queue](https://github.com/smartdolphin/python-algorithm/blob/master/data_struct/queue.py)
+- [single linked list](https://github.com/smartdolphin/python-algorithm/blob/master/data_struct/linked_list.py)
 - double linked list (TODO)
 - skip list (TODO)
-- hash table
-- graph
-- recursive binary search tree
+- [hash table](https://github.com/smartdolphin/python-algorithm/blob/master/data_struct/hash_table.py)
+- [graph](https://github.com/smartdolphin/python-algorithm/blob/master/data_struct/graph.py)
+- [recursive binary search tree](https://github.com/smartdolphin/python-algorithm/blob/master/data_struct/binary_search_tree.py)
 - iterative binary search tree (TODO)
 - cartesian tree (TODO)
 - b-tree (TODO)
@@ -19,12 +19,12 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - kd tree (TODO)
 
 ## Algorithm
-- recursive binary search
-- iterative binary search
+- [recursive binary search](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/binary_search_recursive.py)
+- [iterative binary search](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/binary_search.py)
 - depth first search (TODO)
 - breadth first search (TODO)
 - parametric search (TODO)
-- quick sort
+- [quick sort](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/quick_sort.py)
 - merge sort (TODO)
 - tim sort (TODO)
 - heap sort (TODO)
@@ -39,9 +39,10 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - cube sort (TODO)
 
 ## Problem
-- two sum ([leetcode #1](https://leetcode.com/problems/two-sum))
+- [recursive factorial](https://github.com/smartdolphin/python-algorithm/blob/master/problems/factorial_recursive.py)
+- [two sum](https://github.com/smartdolphin/python-algorithm/blob/master/problems/two_sum.py) ([leetcode #1](https://leetcode.com/problems/two-sum))
 - median of two sorted arrays ([leetcode #4](https://leetcode.com/problems/median-of-two-sorted-arrays)) (TODO)
-- reverse integer ([leetcode #7](https://leetcode.com/problems/reverse-integer))
+- [reverse integer](https://github.com/smartdolphin/python-algorithm/blob/master/problems/reverse_integer.py) ([leetcode #7](https://leetcode.com/problems/reverse-integer))
 - regular expression matching ([leetcode #10](https://leetcode.com/problems/regular-expression-matching)) (TODO)
 - letter combinations of a phone number ([leetcode #17](https://leetcode.com/problems/letter-combinations-of-a-phone-number)) (TODO)
 - valid parentheses ([leetcode #20](https://leetcode.com/problems/valid-parentheses)) (TODO)
@@ -54,7 +55,6 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - spiral matrix ([leetcode #54](https://leetcode.com/problems/spiral-matrix)) (TODO)
 - merge intervals ([leetcode #56](https://leetcode.com/problems/merge-intervals)) (TODO)
 - plus one ([leetcode #66](https://leetcode.com/problems/plus-one)) (TODO)
-- recursive factorial
 - binary tree inorder traversal ([leetcode #94](https://leetcode.com/problems/binary-tree-inorder-traversal)) (TODO)
 - binary tree level order traversal ([leetcode #102](https://leetcode.com/problems/binary-tree-level-order-traversal)) (TODO)
 - binary tree zigzag level order traversal ([leetcode #103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)) (TODO)
