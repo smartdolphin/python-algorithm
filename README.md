@@ -38,6 +38,8 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - radix sort (TODO)
 - counting sort (TODO)
 - cube sort (TODO)
+- dijkstra (TODO)
+- a* (TODO)
 
 ## Problem
 - [recursive factorial](https://github.com/smartdolphin/python-algorithm/blob/master/problems/factorial_recursive.py)
