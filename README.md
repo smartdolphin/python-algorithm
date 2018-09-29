@@ -26,7 +26,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - [breadth first search](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/bfs.py)
 - parametric search (TODO)
 - [quick sort](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/quick_sort.py)
-- merge sort (TODO)
+- [merge sort](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/merge_sort.py)
 - tim sort (TODO)
 - heap sort (TODO)
 - bubble sort (TODO)
