@@ -59,8 +59,9 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - merge intervals ([leetcode #56](https://leetcode.com/problems/merge-intervals)) (TODO)
 - plus one ([leetcode #66](https://leetcode.com/problems/plus-one)) (TODO)
 - [binary tree inorder traversal - recursive](https://github.com/smartdolphin/python-algorithm/blob/master/problems/binary_tree_inorder_traversal.py) ([leetcode #94](https://leetcode.com/problems/binary-tree-inorder-traversal))
+- [binary tree inorder traversal - iterative](https://github.com/smartdolphin/python-algorithm/blob/master/problems/binary_tree_inorder_traversal_iterative.py) ([leetcode #94](https://leetcode.com/problems/binary-tree-inorder-traversal))
 
-- [binary tree inorder traversal - thread binary tree](https://github.com/smartdolphin/python-algorithm/blob/master/problems/binary_tree_inorder_traversal.py) ([leetcode #94](https://leetcode.com/problems/binary-tree-inorder-traversal))
+- binary tree inorder traversal - thread binary tree([leetcode #94](https://leetcode.com/problems/binary-tree-inorder-traversal)) (TODO)
 - [binary tree level order traversal](https://github.com/smartdolphin/python-algorithm/blob/master/problems/binary_tree_level_order_traversal.py) ([leetcode #102](https://leetcode.com/problems/binary-tree-level-order-traversal))
 - binary tree zigzag level order traversal ([leetcode #103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)) (TODO)
 - longest consecutive sequence ([leetcode #128](https://leetcode.com/problems/longest-consecutive-sequence)) (TODO)
