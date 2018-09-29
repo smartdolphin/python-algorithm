@@ -22,8 +22,8 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 ## Algorithm
 - [recursive binary search](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/binary_search_recursive.py)
 - [iterative binary search](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/binary_search.py)
-- depth first search (TODO)
-- breadth first search (TODO)
+- [depth first search](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/dfs.py)
+- [breadth first search](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/bfs.py)
 - parametric search (TODO)
 - [quick sort](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/quick_sort.py)
 - merge sort (TODO)
