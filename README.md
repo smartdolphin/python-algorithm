@@ -36,7 +36,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - shell sort (TODO)
 - bucket sort (TODO)
 - radix sort (TODO)
-- counting sort (TODO)
+- [counting sort](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/counting_sort.py)
 - cube sort (TODO)
 - dijkstra (TODO)
 - a* (TODO)
