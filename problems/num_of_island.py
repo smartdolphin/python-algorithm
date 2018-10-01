@@ -6,47 +6,36 @@ import unittest
 class Solution:
     def __init__(self):
         self.direction = ((0, -1), (-1, 0), (0, 1), (1, 0))
+        self.n_row = None
+        self.n_col = None
 
     def numIslands(self, grid):
         """
         :type grid: List[List[str]]
         :rtype: int
         """
+        if len(grid) == 0:
+            return 0
+
         cnt = 0
+        self.n_row = len(grid)
+        self.n_col = len(grid[0])
+
         for i, row in enumerate(grid):
             for j, col in enumerate(row):
-                if grid[i][j] == '1' and grid[i][j] != 'v':
-                    self.check_island(grid, i, j)
+                if grid[i][j] == '1':
+                    self._check_island(grid, i, j)
                     cnt += 1
         return cnt
 
-    def is_neighborhood(self, grid, row, col):
-        n_row = len(grid)
-        n_col = len(grid[0])
+    def _check_island(self, grid, row, col):
+        grid[row][col] = '0'
+
         for r, c in self.direction:
-            if (row + r >= 0 and
-                row + r < n_row and
-                col + c >= 0 and
-                col + c < n_col and
-                grid[row + r][col + c] == '1'):
-                return True
-        return False
-
-    def check_island(self, grid, row, col):
-        grid[row][col] = 'v'
-
-        if not self.is_neighborhood(grid, row, col):
-            return
-
-        n_row = len(grid)
-        n_col = len(grid[0])
-        for r, c in self.direction:
-            if (row + r >= 0 and
-                row + r < n_row and
-                col + c >= 0 and
-                col + c < n_col and
-                grid[row + r][col + c] == '1'):
-                self.check_island(grid, row + r, col + c)
+            if 0 <= row + r < self.n_row and \
+               0 <= col + c < self.n_col and \
+               grid[row + r][col + c] == '1':
+                self._check_island(grid, row + r, col + c)
 
 
 class TestNumOfIsland(unittest.TestCase):
