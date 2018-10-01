@@ -73,7 +73,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - min sack ([leetcode #155](https://leetcode.com/problems/min-stack)) (TODO)
 - find peak element ([leetcode #162](https://leetcode.com/problems/find-peak-element)) (TODO)
 - binary search tree iterator ([leetcode #173](https://leetcode.com/problems/binary-search-tree-iterator)) (TODO)
-- number of islands ([leetcode #200](https://leetcode.com/problems/number-of-islands)) (TOOD)
+- [number of islands](https://github.com/smartdolphin/python-algorithm/blob/master/problems/num_of_island.py) ([leetcode #200](https://leetcode.com/problems/number-of-islands))
 - [implement trie (prefix tree)](https://github.com/smartdolphin/python-algorithm/blob/master/problems/trie.py) ([leetcode #208](https://leetcode.com/problems/implement-trie-prefix-tree))
 - the skyline problem ([leetcode #218](https://leetcode.com/problems/the-skyline-problem)) (TODO)
 - basic calculator ([leetcode #224](https://leetcode.com/problems/basic-calculator)) (TODO)
