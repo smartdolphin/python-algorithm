@@ -4,6 +4,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 ## Data struct
 - [stack](https://github.com/smartdolphin/python-algorithm/blob/master/data_struct/stack.py)
 - [queue](https://github.com/smartdolphin/python-algorithm/blob/master/data_struct/queue.py)
+- [priority queue](https://github.com/smartdolphin/python-algorithm/blob/master/data_struct/priority_queue.py)
 - [single linked list](https://github.com/smartdolphin/python-algorithm/blob/master/data_struct/linked_list.py)
 - double linked list (TODO)
 - skip list (TODO)
