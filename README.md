@@ -53,7 +53,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - median of two sorted arrays ([leetcode #4](https://leetcode.com/problems/median-of-two-sorted-arrays)) (TODO)
 - [reverse integer](https://github.com/smartdolphin/python-algorithm/blob/master/problems/reverse_integer.py) ([leetcode #7](https://leetcode.com/problems/reverse-integer))
 - regular expression matching ([leetcode #10](https://leetcode.com/problems/regular-expression-matching)) (TODO)
-- letter combinations of a phone number ([leetcode #17](https://leetcode.com/problems/letter-combinations-of-a-phone-number)) (TODO)
+- [letter combinations of a phone number](https://github.com/smartdolphin/python-algorithm/blob/master/problems/letter_combinations_of_a_phone_number.py) ([leetcode #17](https://leetcode.com/problems/letter-combinations-of-a-phone-number))
 - valid parentheses ([leetcode #20](https://leetcode.com/problems/valid-parentheses)) (TODO)
 - generate parentheses ([leetcode #22](https://leetcode.com/problems/generate-parentheses)) (TODO)
 - merge k sorted lists ([leetcode #23](https://leetcode.com/problems/merge-k-sorted-lists)) (TODO)
