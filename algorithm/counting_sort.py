@@ -7,7 +7,7 @@ def counting_sort(arr):
         bins = [0] * n_bins
         for i in list:
             bins[i - smallest] += 1
-        return [i + smallest for i, n in enumerate(bins) if n > 0 for _ in range(n)]
+        return [i + smallest for i, n in enumerate(bins) for _ in range(n)]
 
     result = _counting_sort(arr, min(arr), max(arr))
     return result
