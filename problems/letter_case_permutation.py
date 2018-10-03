@@ -3,6 +3,7 @@
 import unittest
 
 
+# Time complexity: O(n*2^n), Space complexity: O(2^n)
 class Solution:
     def letterCasePermutation(self, S):
         """
