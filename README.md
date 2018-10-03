@@ -112,7 +112,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - robot return to origin ([leetcode #657](https://leetcode.com/problems/robot-return-to-origin)) (TODO)
 - next closest time ([leetcode #681](https://leetcode.com/problems/next-closest-time)) (TODO)
 - daily temperatures ([leetcode #739](https://leetcode.com/problems/daily-temperatures)) (TODO)
-- find anagram mappings ([leetcode #760](https://leetcode.com/problems/find-anagram-mappings)) (TODO)
+- [find anagram mappings](https://github.com/smartdolphin/python-algorithm/blob/master/problems/find_anagram_mappings.py) ([leetcode #760](https://leetcode.com/problems/find-anagram-mappings))
 - [letter case permutation](https://github.com/smartdolphin/python-algorithm/blob/master/problems/letter_case_permutation.py) ([leetcode #784](https://leetcode.com/problems/letter-case-permutation))
 - flipping an image ([leetcode #832](https://leetcode.com/problems/flipping-an-image)) (TODO)
 - middle of the linked list ([leetcode #879](https://leetcode.com/problems/profitable-schemes)) (TODO)
