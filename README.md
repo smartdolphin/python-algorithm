@@ -102,7 +102,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - first unique character in a string ([leetcode #387](https://leetcode.com/problems/first-unique-character-in-a-string)) (TODO)
 - longest absolute file path ([leetcode #388](https://leetcode.com/problems/longest-absolute-file-path)) (TODO)
 - queue reconstruction by height ([leetcode #406](https://leetcode.com/problems/queue-reconstruction-by-height)) (TODO)
-- maximum xor of two numbers in an array ([leetcode #421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)) (TODO)
+- [maximum xor of two numbers in an array](https://github.com/smartdolphin/python-algorithm/blob/master/problems/maximum_depth_of_n_ary_tree.py) ([leetcode #421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array))
 - find all numbers disappeared in an array ([leetcode #448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)) (TODO)
 - delete node in a BST ([leetcode #450](https://leetcode.com/problems/delete-node-in-a-bst)) (TODO)
 - island perimeter ([leetcode #463](https://leetcode.com/problems/island-perimeter)) (TODO)
