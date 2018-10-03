@@ -71,7 +71,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - [binary tree level order traversal](https://github.com/smartdolphin/python-algorithm/blob/master/problems/binary_tree_level_order_traversal.py) ([leetcode #102](https://leetcode.com/problems/binary-tree-level-order-traversal))
 - binary tree zigzag level order traversal ([leetcode #103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)) (TODO)
 - longest consecutive sequence ([leetcode #128](https://leetcode.com/problems/longest-consecutive-sequence)) (TODO)
-- sing number ([leetcode #136](https://leetcode.com/problems/single-number)) (TODO)
+- [single number](https://github.com/smartdolphin/python-algorithm/blob/master/problems/single_number.py) ([leetcode #136](https://leetcode.com/problems/single-number))
 - word break ([leetcode #139](https://leetcode.com/problems/word-break)) (TODO)
 - word break ii ([leetcode #140](https://leetcode.com/problems/word-break-ii)) (TODO)
 - lru cache ([leetcode #146](https://leetcode.com/problems/lru-cache)) (TODO)
