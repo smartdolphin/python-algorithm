@@ -113,6 +113,6 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - next closest time ([leetcode #681](https://leetcode.com/problems/next-closest-time)) (TODO)
 - daily temperatures ([leetcode #739](https://leetcode.com/problems/daily-temperatures)) (TODO)
 - find anagram mappings ([leetcode #760](https://leetcode.com/problems/find-anagram-mappings)) (TODO)
-- case permutation ([leetcode #784](https://leetcode.com/problems/letter-case-permutation)) (TODO)
+- [letter case permutation](https://github.com/smartdolphin/python-algorithm/blob/master/problems/letter_case_permutation.py) ([leetcode #784](https://leetcode.com/problems/letter-case-permutation))
 - flipping an image ([leetcode #832](https://leetcode.com/problems/flipping-an-image)) (TODO)
 - middle of the linked list ([leetcode #879](https://leetcode.com/problems/profitable-schemes)) (TODO)
