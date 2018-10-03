@@ -29,7 +29,7 @@ class TestSingleNum(unittest.TestCase):
             1
         )
         self.assertEqual(
-            sol.singleNumber([4,1,2,1,2]),
+            sol.singleNumber([4, 1, 2, 1, 2]),
             4
         )
 
