@@ -77,7 +77,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - lru cache ([leetcode #146](https://leetcode.com/problems/lru-cache)) (TODO)
 - [min sack](https://github.com/smartdolphin/python-algorithm/blob/master/problems/min_stack.py) ([leetcode #155](https://leetcode.com/problems/min-stack))
 - find peak element ([leetcode #162](https://leetcode.com/problems/find-peak-element)) (TODO)
-- binary search tree iterator ([leetcode #173](https://leetcode.com/problems/binary-search-tree-iterator)) (TODO)
+- [binary search tree iterator](https://github.com/smartdolphin/python-algorithm/blob/master/problems/binary_search_tree_iterator.py) ([leetcode #173](https://leetcode.com/problems/binary-search-tree-iterator))
 - [number of islands](https://github.com/smartdolphin/python-algorithm/blob/master/problems/num_of_island.py) ([leetcode #200](https://leetcode.com/problems/number-of-islands))
 - [implement trie (prefix tree)](https://github.com/smartdolphin/python-algorithm/blob/master/problems/trie.py) ([leetcode #208](https://leetcode.com/problems/implement-trie-prefix-tree))
 - the skyline problem ([leetcode #218](https://leetcode.com/problems/the-skyline-problem)) (TODO)
