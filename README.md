@@ -95,7 +95,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - burst balloons ([leetcode #312](https://leetcode.com/problems/burst-balloons)) (TODO)
 - count of samller numbers after self ([leetcode #315](https://leetcode.com/problems/count-of-smaller-numbers-after-self)) (TODO)
 - remove duplicate letters ([leetcode #316](https://leetcode.com/problems/remove-duplicate-letters)) (TODO)
-- power of three ([leetcode #326](https://leetcode.com/problems/power-of-three)) (TODO)
+- [power of three](https://github.com/smartdolphin/python-algorithm/blob/master/problems/power_of_three.py) ([leetcode #326](https://leetcode.com/problems/power-of-three))
 - palindrome pairs ([leetcode #336](https://leetcode.com/problems/palindrome-pairs)) (TODO)
 - flatten nested list iterator ([leetcode #341](https://leetcode.com/problems/flatten-nested-list-iterator)) (TODO)
 - reverse vowels of a string ([leetcode #345](https://leetcode.com/problems/reverse-vowels-of-a-string)) (TODO)
