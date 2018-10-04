@@ -84,7 +84,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - [basic calculator](https://github.com/smartdolphin/python-algorithm/blob/master/problems/basic_calculate.py) ([leetcode #224](https://leetcode.com/problems/basic-calculator))
 - summary ranges ([leetcode #228](https://leetcode.com/problems/summary-ranges)) (TODO)
 - kth smallest element in bst ([leetcode #230](https://leetcode.com/problems/kth-smallest-element-in-a-bst)) (TODO)
-- power of two ([leetcode #231](https://leetcode.com/problems/power-of-two)) (TODO)
+- [power of two](https://github.com/smartdolphin/python-algorithm/blob/master/problems/is_power_of_two.py) ([leetcode #231](https://leetcode.com/problems/power-of-two))
 - search a 2d matrix ii ([leetcode #240](https://leetcode.com/problems/search-a-2d-matrix-ii)) (TODO)
 - meeting rooms ii ([leetcode #253](https://leetcode.com/problems/meeting-rooms-ii)) (TODO)
 - [single number iii](https://github.com/smartdolphin/python-algorithm/blob/master/problems/single_number_iii.py) ([leetcode #260](https://leetcode.com/problems/single-number-iii))
