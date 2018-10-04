@@ -15,11 +15,7 @@ class Solution:
                 dic[n] = 1
             else:
                 del dic[n]
-
-        ret = []
-        for n in dic.keys():
-            ret.append(n)
-        return ret
+        return [k for k in dic.keys()]
 
 
 class TestSingleNumberIII(unittest.TestCase):
