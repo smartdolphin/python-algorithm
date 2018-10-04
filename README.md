@@ -87,7 +87,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - power of two ([leetcode #231](https://leetcode.com/problems/power-of-two)) (TODO)
 - search a 2d matrix ii ([leetcode #240](https://leetcode.com/problems/search-a-2d-matrix-ii)) (TODO)
 - meeting rooms ii ([leetcode #253](https://leetcode.com/problems/meeting-rooms-ii)) (TODO)
-- single number iii ([leetcode #260](https://leetcode.com/problems/single-number-iii)) (TODO)
+- [single number iii](https://github.com/smartdolphin/python-algorithm/blob/master/problems/single_number_iii.py) ([leetcode #260](https://leetcode.com/problems/single-number-iii))
 - perfect squares ([leetcode #279](https://leetcode.com/problems/perfect-squares)) (TODO)
 - wiggle sort ([leetcode #280](https://leetcode.com/problems/wiggle-sort)) (TODO)
 - game of life ([leetcode #289](https://leetcode.com/problems/game-of-life)) (TODO)
