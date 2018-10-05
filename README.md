@@ -60,6 +60,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - next permutation ([leetcode #31](https://leetcode.com/problems/next-permutation)) (TODO)
 - [valid sudoku](https://github.com/smartdolphin/python-algorithm/blob/master/problems/valid_sudoku.py) ([leetcode #36](https://leetcode.com/problems/valid-sudoku))
 - trapping rain water ([leetcode #42](https://leetcode.com/problems/trapping-rain-water)) (TODO)
+- [group anagram](https://github.com/smartdolphin/python-algorithm/blob/master/problems/group_anagram.py) ([leetcode #49](https://leetcode.com/problems/group-anagrams))
 - [pow(x, n)](https://github.com/smartdolphin/python-algorithm/blob/master/problems/my_pow.py) ([leetcode #50](https://leetcode.com/problems/powx-n))
 - spiral matrix ([leetcode #54](https://leetcode.com/problems/spiral-matrix)) (TODO)
 - merge intervals ([leetcode #56](https://leetcode.com/problems/merge-intervals)) (TODO)
