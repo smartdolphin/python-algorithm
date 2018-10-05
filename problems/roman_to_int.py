@@ -18,9 +18,7 @@ class Solution:
             'D': 500,
             'M': 1000
         }
-        # IV
-        # III
-        # VI
+
         result = 0
         size = len(s)
         for i in range(size):
