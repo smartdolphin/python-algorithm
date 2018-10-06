@@ -22,6 +22,8 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - [trie](https://github.com/smartdolphin/python-algorithm/blob/master/problems/trie.py)
 
 ## Algorithm
+- [combination](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/combination.py)
+- [purmutation](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/permutation.py)
 - [recursive binary search](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/binary_search_recursive.py)
 - [iterative binary search](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/binary_search.py)
 - [depth first search](https://github.com/smartdolphin/python-algorithm/blob/master/algorithm/dfs.py)
