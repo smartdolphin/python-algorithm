@@ -80,7 +80,6 @@ class BinarySearchTree(object):
         if node is None:
             return node, False
 
-        deleted = False
         if value == node.value:
             deleted = True
             if node.left and node.right:
