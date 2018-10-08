@@ -74,7 +74,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - [binary tree inorder traversal - thread binary tree](https://github.com/smartdolphin/python-algorithm/blob/master/problems/binary_tree_inorder_traversal_morris.py) ([leetcode #94](https://leetcode.com/problems/binary-tree-inorder-traversal))
 - [binary tree level order traversal](https://github.com/smartdolphin/python-algorithm/blob/master/problems/binary_tree_level_order_traversal.py) ([leetcode #102](https://leetcode.com/problems/binary-tree-level-order-traversal))
 - binary tree zigzag level order traversal ([leetcode #103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)) (TODO)
-- longest consecutive sequence ([leetcode #128](https://leetcode.com/problems/longest-consecutive-sequence)) (TODO)
+- [longest consecutive sequence](https://github.com/smartdolphin/python-algorithm/blob/master/problems/longest_consecutive.py) ([leetcode #128](https://leetcode.com/problems/longest-consecutive-sequence))
 - [single number](https://github.com/smartdolphin/python-algorithm/blob/master/problems/single_number.py) ([leetcode #136](https://leetcode.com/problems/single-number))
 - word break ([leetcode #139](https://leetcode.com/problems/word-break)) (TODO)
 - word break ii ([leetcode #140](https://leetcode.com/problems/word-break-ii)) (TODO)
