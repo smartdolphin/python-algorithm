@@ -57,7 +57,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - regular expression matching ([leetcode #10](https://leetcode.com/problems/regular-expression-matching)) (TODO)
 - [roman to integer](https://github.com/smartdolphin/python-algorithm/blob/master/problems/roman_to_int.py) ([leetcode #13](https://leetcode.com/problems/roman-to-integer))
 - [letter combinations of a phone number](https://github.com/smartdolphin/python-algorithm/blob/master/problems/letter_combinations_of_a_phone_number.py) ([leetcode #17](https://leetcode.com/problems/letter-combinations-of-a-phone-number))
-- valid parentheses ([leetcode #20](https://leetcode.com/problems/valid-parentheses)) (TODO)
+- [valid parentheses](https://github.com/smartdolphin/python-algorithm/blob/master/problems/valid_parentheses.py) ([leetcode #20](https://leetcode.com/problems/valid-parentheses))
 - generate parentheses ([leetcode #22](https://leetcode.com/problems/generate-parentheses)) (TODO)
 - merge k sorted lists ([leetcode #23](https://leetcode.com/problems/merge-k-sorted-lists)) (TODO)
 - next permutation ([leetcode #31](https://leetcode.com/problems/next-permutation)) (TODO)
