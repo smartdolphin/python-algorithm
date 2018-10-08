@@ -31,6 +31,20 @@ class TestPermutation(unittest.TestCase):
                 ['C', 'A', 'B']
             ]
         )
+        arr = ['1', '2', '3']
+        result = []
+        permutation(arr, len(arr), 0, result)
+        self.assertEqual(
+            result,
+            [
+                ['1', '2', '3'],
+                ['1', '3', '2'],
+                ['2', '1', '3'],
+                ['2', '3', '1'],
+                ['3', '2', '1'],
+                ['3', '1', '2']
+            ]
+        )
 
 
 if __name__ == '__main__':
