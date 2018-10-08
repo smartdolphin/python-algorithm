@@ -103,6 +103,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - palindrome pairs ([leetcode #336](https://leetcode.com/problems/palindrome-pairs)) (TODO)
 - flatten nested list iterator ([leetcode #341](https://leetcode.com/problems/flatten-nested-list-iterator)) (TODO)
 - [reverse vowels of a string](https://github.com/smartdolphin/python-algorithm/blob/master/problems/reverse_vowels.py) ([leetcode #345](https://leetcode.com/problems/reverse-vowels-of-a-string))
+- [reverse string](https://github.com/smartdolphin/python-algorithm/blob/master/problems/reverse_string.py) ([leetcode #344](https://leetcode.com/problems/reverse-string))
 - first unique character in a string ([leetcode #387](https://leetcode.com/problems/first-unique-character-in-a-string)) (TODO)
 - longest absolute file path ([leetcode #388](https://leetcode.com/problems/longest-absolute-file-path)) (TODO)
 - queue reconstruction by height ([leetcode #406](https://leetcode.com/problems/queue-reconstruction-by-height)) (TODO)
