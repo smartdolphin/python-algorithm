@@ -68,6 +68,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - spiral matrix ([leetcode #54](https://leetcode.com/problems/spiral-matrix)) (TODO)
 - merge intervals ([leetcode #56](https://leetcode.com/problems/merge-intervals)) (TODO)
 - [plus one](https://github.com/smartdolphin/python-algorithm/blob/master/problems/plus_one.py) ([leetcode #66](https://leetcode.com/problems/plus-one))
+- [climbing stairs](https://github.com/smartdolphin/python-algorithm/blob/master/problems/climbing_stairs.py) ([leetcode #70](https://leetcode.com/problems/climbing-stairs))
 - [binary tree inorder traversal - recursive](https://github.com/smartdolphin/python-algorithm/blob/master/problems/binary_tree_inorder_traversal.py) ([leetcode #94](https://leetcode.com/problems/binary-tree-inorder-traversal))
 - [binary tree inorder traversal - iterative](https://github.com/smartdolphin/python-algorithm/blob/master/problems/binary_tree_inorder_traversal_iterative.py) ([leetcode #94](https://leetcode.com/problems/binary-tree-inorder-traversal))
 
