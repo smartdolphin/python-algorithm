@@ -95,7 +95,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - perfect squares ([leetcode #279](https://leetcode.com/problems/perfect-squares)) (TODO)
 - wiggle sort ([leetcode #280](https://leetcode.com/problems/wiggle-sort)) (TODO)
 - game of life ([leetcode #289](https://leetcode.com/problems/game-of-life)) (TODO)
-- serialize and deserialize binary tree ([leetcode #297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)) (TODO)
+- [serialize and deserialize binary tree](https://github.com/smartdolphin/python-algorithm/blob/master/problems/serialize_and_deserialize_binary_tree.py) ([leetcode #297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree))
 - burst balloons ([leetcode #312](https://leetcode.com/problems/burst-balloons)) (TODO)
 - count of samller numbers after self ([leetcode #315](https://leetcode.com/problems/count-of-smaller-numbers-after-self)) (TODO)
 - remove duplicate letters ([leetcode #316](https://leetcode.com/problems/remove-duplicate-letters)) (TODO)
