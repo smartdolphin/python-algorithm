@@ -65,7 +65,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - trapping rain water ([leetcode #42](https://leetcode.com/problems/trapping-rain-water)) (TODO)
 - [group anagram](https://github.com/smartdolphin/python-algorithm/blob/master/problems/group_anagram.py) ([leetcode #49](https://leetcode.com/problems/group-anagrams))
 - [pow(x, n)](https://github.com/smartdolphin/python-algorithm/blob/master/problems/my_pow.py) ([leetcode #50](https://leetcode.com/problems/powx-n))
-- spiral matrix ([leetcode #54](https://leetcode.com/problems/spiral-matrix)) (TODO)
+- [spiral matrix](https://github.com/smartdolphin/python-algorithm/blob/master/problems/spiral_matrix.py) ([leetcode #54](https://leetcode.com/problems/spiral-matrix))
 - merge intervals ([leetcode #56](https://leetcode.com/problems/merge-intervals)) (TODO)
 - [plus one](https://github.com/smartdolphin/python-algorithm/blob/master/problems/plus_one.py) ([leetcode #66](https://leetcode.com/problems/plus-one))
 - [climbing stairs](https://github.com/smartdolphin/python-algorithm/blob/master/problems/climbing_stairs.py) ([leetcode #70](https://leetcode.com/problems/climbing-stairs))
