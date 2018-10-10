@@ -91,6 +91,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - kth smallest element in bst ([leetcode #230](https://leetcode.com/problems/kth-smallest-element-in-a-bst)) (TODO)
 - [power of two](https://github.com/smartdolphin/python-algorithm/blob/master/problems/is_power_of_two.py) ([leetcode #231](https://leetcode.com/problems/power-of-two))
 - search a 2d matrix ii ([leetcode #240](https://leetcode.com/problems/search-a-2d-matrix-ii)) (TODO)
+- [meeting rooms](https://github.com/smartdolphin/python-algorithm/blob/master/problems/meeting_room.py) ([leetcode #252](https://leetcode.com/problems/meeting-rooms))
 - meeting rooms ii ([leetcode #253](https://leetcode.com/problems/meeting-rooms-ii)) (TODO)
 - [single number iii](https://github.com/smartdolphin/python-algorithm/blob/master/problems/single_number_iii.py) ([leetcode #260](https://leetcode.com/problems/single-number-iii))
 - perfect squares ([leetcode #279](https://leetcode.com/problems/perfect-squares)) (TODO)
