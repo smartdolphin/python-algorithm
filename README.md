@@ -85,6 +85,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - [binary search tree iterator](https://github.com/smartdolphin/python-algorithm/blob/master/problems/binary_search_tree_iterator.py) ([leetcode #173](https://leetcode.com/problems/binary-search-tree-iterator))
 - [number of islands](https://github.com/smartdolphin/python-algorithm/blob/master/problems/num_of_island.py) ([leetcode #200](https://leetcode.com/problems/number-of-islands))
 - [implement trie (prefix tree)](https://github.com/smartdolphin/python-algorithm/blob/master/problems/trie.py) ([leetcode #208](https://leetcode.com/problems/implement-trie-prefix-tree))
+- [contains duplicate](https://github.com/smartdolphin/python-algorithm/blob/master/problems/contains_duplicate.py) ([leetcode #217](https://leetcode.com/problems/contains-duplicate))
 - the skyline problem ([leetcode #218](https://leetcode.com/problems/the-skyline-problem)) (TODO)
 - [basic calculator](https://github.com/smartdolphin/python-algorithm/blob/master/problems/basic_calculate.py) ([leetcode #224](https://leetcode.com/problems/basic-calculator))
 - summary ranges ([leetcode #228](https://leetcode.com/problems/summary-ranges)) (TODO)
