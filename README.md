@@ -81,7 +81,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - word break ii ([leetcode #140](https://leetcode.com/problems/word-break-ii)) (TODO)
 - lru cache ([leetcode #146](https://leetcode.com/problems/lru-cache)) (TODO)
 - [min sack](https://github.com/smartdolphin/python-algorithm/blob/master/problems/min_stack.py) ([leetcode #155](https://leetcode.com/problems/min-stack))
-- find peak element ([leetcode #162](https://leetcode.com/problems/find-peak-element)) (TODO)
+- [find peak element](https://github.com/smartdolphin/python-algorithm/blob/master/problems/find_peak_element.py) ([leetcode #162](https://leetcode.com/problems/find-peak-element))
 - [binary search tree iterator](https://github.com/smartdolphin/python-algorithm/blob/master/problems/binary_search_tree_iterator.py) ([leetcode #173](https://leetcode.com/problems/binary-search-tree-iterator))
 - [number of islands](https://github.com/smartdolphin/python-algorithm/blob/master/problems/num_of_island.py) ([leetcode #200](https://leetcode.com/problems/number-of-islands))
 - [implement trie (prefix tree)](https://github.com/smartdolphin/python-algorithm/blob/master/problems/trie.py) ([leetcode #208](https://leetcode.com/problems/implement-trie-prefix-tree))
