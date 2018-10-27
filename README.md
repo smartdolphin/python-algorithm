@@ -129,6 +129,7 @@ Here are code snippets about algorithms, data structures, problems. These codes 
 - [maximum depth of N-ary tree](https://github.com/smartdolphin/python-algorithm/blob/master/problems/maximum_depth_of_n_ary_tree.py) ([leetcode #559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)) (TODO)
 - [n-ary tree preorder traversal](https://github.com/smartdolphin/python-algorithm/blob/master/problems/n_ary_tree_preorder_traversal.py) ([leetcode #589](https://leetcode.com/problems/n-ary-tree-preorder-traversal))
 - [shopping offers](https://github.com/smartdolphin/python-algorithm/blob/master/problems/shopping_offers.py) ([leetcode #638](https://leetcode.com/problems/shopping-offers))
+- [exchange rate](https://github.com/smartdolphin/python-algorithm/blob/master/problems/calculate_ratio.py)
 - [robot return to origin](https://github.com/smartdolphin/python-algorithm/blob/master/problems/robot_return_to_origin.py) ([leetcode #657](https://leetcode.com/problems/robot-return-to-origin)) (TODO)
 - [maximum swap](https://github.com/smartdolphin/python-algorithm/blob/master/problems/maximum_swap.py) ([leetcode #670](https://leetcode.com/problems/maximum-swap))
 - next closest time ([leetcode #681](https://leetcode.com/problems/next-closest-time)) (TODO)
